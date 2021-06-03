@@ -4,6 +4,8 @@ A stories webcomponent with friendly navigation.
 
 Follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
+https://user-images.githubusercontent.com/5228723/120627725-dafcca00-c45b-11eb-9819-420640a4c28b.mp4
+
 ## Installation
 
 ```bash
